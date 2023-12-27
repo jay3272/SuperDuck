@@ -1,5 +1,2 @@
-# 2DÆ½Ì¨ÌøÔ¾ÓÎÏ·
-Ò»¸öÄÜ°ïÖú³õÑ§ÕßÑ§Ï°2DÆ½Ì¨ÌøÔ¾ÓÎÏ·¿ª·¢µÄUnity½Ì³Ì
-
-# 2D-Platform
-A 2D-Platform Tutotial can help the Unity beginner to learn more Unity technology.
+# å°é´¨å­¸è‹±æ–‡
+Unityå¯¦ä½œ2Dæ©«ç‰ˆéŠæˆ²èˆ‡è‹±èªå­¸ç¿’
